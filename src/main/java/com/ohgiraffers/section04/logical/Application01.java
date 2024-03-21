@@ -32,6 +32,10 @@ public class Application01 {
         System.out.println( !true );
         System.out.println(!false);
 
+        char var1 = 'a';
+//        short var2 = 30;
+//        short inum = (short) var1;
+//        short result = inum + var2;
 
 
     }
