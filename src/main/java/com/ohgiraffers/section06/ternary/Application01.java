@@ -23,6 +23,7 @@ public class Application01 {
 
         System.out.println("result2 = " + result2);
         System.out.println("result2 = " + result2);
+        System.out.println("result2 = " + result2);
         // 목차. 삼항연산자의 중첩사용
 
         int num3 = 5;
