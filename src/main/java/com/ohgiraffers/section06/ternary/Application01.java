@@ -20,6 +20,7 @@ public class Application01 {
         String result2 = (num2 >0)? "양수다." : "양수가 아니다.";
         System.out.println("result2 = " + result2);
         System.out.println("result2 = " + result2);
+        System.out.println("result2 = " + result2);
 
         System.out.println("result2 = " + result2);
         System.out.println("result2 = " + result2);
