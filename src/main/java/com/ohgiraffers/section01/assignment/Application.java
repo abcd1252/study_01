@@ -34,6 +34,7 @@ public class Application {
 
         num %= 2;
         System.out.println("num = " + num);
+        System.out.println("num = " + num);
 
         /* 필기
             산술 복합 대입연산자의 작성 순서에 주의해야 한다.
