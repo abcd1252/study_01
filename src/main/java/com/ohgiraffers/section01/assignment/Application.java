@@ -58,6 +58,7 @@ public class Application {
         System.out.println("num = " + num);
         System.out.println("num = " + num);
         System.out.println("num = " + num);
+        System.out.println("num = " + num);
 
         System.out.println("num = " + num);
         System.out.println("num = " + num);
